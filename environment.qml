@@ -1,0 +1,15 @@
+dependencies:
+  - python=3
+  - pip:
+    - spacy
+    - ipykernel
+    - scipy
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - thinc
+    - openpyxl
+    - requests
+    - lxml
+    - os
